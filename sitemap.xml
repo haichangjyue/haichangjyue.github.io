@@ -92,6 +92,13 @@
 
   
   <url>
+    <loc>https://haichangjyue.cn/tags/about/</loc>
+    <lastmod>2024-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://haichangjyue.cn/tags/story/</loc>
     <lastmod>2024-05-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -113,7 +120,7 @@
   </url>
   
   <url>
-    <loc>https://haichangjyue.cn/tags/about/</loc>
+    <loc>https://haichangjyue.cn/tags/contact/</loc>
     <lastmod>2024-05-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -127,13 +134,6 @@
   </url>
   
   <url>
-    <loc>https://haichangjyue.cn/tags/contact/</loc>
-    <lastmod>2024-05-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://haichangjyue.cn/tags/logs/</loc>
     <lastmod>2024-05-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -141,14 +141,14 @@
   </url>
   
   <url>
-    <loc>https://haichangjyue.cn/tags/works/</loc>
+    <loc>https://haichangjyue.cn/tags/novel/</loc>
     <lastmod>2024-05-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://haichangjyue.cn/tags/novel/</loc>
+    <loc>https://haichangjyue.cn/tags/works/</loc>
     <lastmod>2024-05-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
