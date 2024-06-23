@@ -152,13 +152,6 @@
   </url>
   
   <url>
-    <loc>https://changjyue.scfilms.cn/tags/news/</loc>
-    <lastmod>2024-06-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://changjyue.scfilms.cn/tags/logs/</loc>
     <lastmod>2024-06-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -167,6 +160,13 @@
   
   <url>
     <loc>https://changjyue.scfilms.cn/tags/works/</loc>
+    <lastmod>2024-06-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://changjyue.scfilms.cn/tags/news/</loc>
     <lastmod>2024-06-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
