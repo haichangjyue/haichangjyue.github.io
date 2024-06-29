@@ -64,9 +64,9 @@
     
     
     
-    <category term="logs" scheme="https://changjyue.scfilms.cn/tags/logs/"/>
-    
     <category term="news" scheme="https://changjyue.scfilms.cn/tags/news/"/>
+    
+    <category term="logs" scheme="https://changjyue.scfilms.cn/tags/logs/"/>
     
   </entry>
   
