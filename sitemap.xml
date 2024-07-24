@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://changjyue.scfilms.cn/2024/07/20/lookback/</loc>
+    
+    <lastmod>2024-07-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://changjyue.scfilms.cn/2024/07/16/ookamitokoushinryou16/</loc>
+    
+    <lastmod>2024-07-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://changjyue.scfilms.cn/2024/06/23/news240623/</loc>
     
     <lastmod>2024-06-23</lastmod>
@@ -38,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://changjyue.scfilms.cn/2024/05/28/ookamitokoushinryou/</loc>
+    <loc>https://changjyue.scfilms.cn/2024/05/28/ookamitokoushinryou09/</loc>
     
     <lastmod>2024-05-31</lastmod>
     
@@ -103,7 +121,7 @@
 
   <url>
     <loc>https://changjyue.scfilms.cn/</loc>
-    <lastmod>2024-06-29</lastmod>
+    <lastmod>2024-07-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -111,70 +129,70 @@
   
   <url>
     <loc>https://changjyue.scfilms.cn/tags/story/</loc>
-    <lastmod>2024-06-29</lastmod>
+    <lastmod>2024-07-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://changjyue.scfilms.cn/tags/films/</loc>
-    <lastmod>2024-06-29</lastmod>
+    <lastmod>2024-07-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://changjyue.scfilms.cn/tags/pictures/</loc>
-    <lastmod>2024-06-29</lastmod>
+    <lastmod>2024-07-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://changjyue.scfilms.cn/tags/about/</loc>
-    <lastmod>2024-06-29</lastmod>
+    <lastmod>2024-07-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://changjyue.scfilms.cn/tags/contact/</loc>
-    <lastmod>2024-06-29</lastmod>
+    <lastmod>2024-07-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://changjyue.scfilms.cn/tags/poetry/</loc>
-    <lastmod>2024-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://changjyue.scfilms.cn/tags/news/</loc>
-    <lastmod>2024-06-29</lastmod>
+    <lastmod>2024-07-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://changjyue.scfilms.cn/tags/logs/</loc>
-    <lastmod>2024-06-29</lastmod>
+    <lastmod>2024-07-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://changjyue.scfilms.cn/tags/works/</loc>
-    <lastmod>2024-06-29</lastmod>
+    <lastmod>2024-07-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://changjyue.scfilms.cn/tags/news/</loc>
+    <lastmod>2024-07-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://changjyue.scfilms.cn/tags/novel/</loc>
-    <lastmod>2024-06-29</lastmod>
+    <lastmod>2024-07-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
