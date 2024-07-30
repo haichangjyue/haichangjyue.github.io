@@ -13,11 +13,11 @@ https://hi.scfilms.cn/2023/07/05/about/
 https://hi.scfilms.cn/2022/04/16/ci20220416/
 https://hi.scfilms.cn/2023/07/05/contact/
 https://hi.scfilms.cn/
-https://hi.scfilms.cn/tags/about/
-https://hi.scfilms.cn/tags/poetry/
 https://hi.scfilms.cn/tags/story/
 https://hi.scfilms.cn/tags/films/
 https://hi.scfilms.cn/tags/pictures/
+https://hi.scfilms.cn/tags/about/
+https://hi.scfilms.cn/tags/poetry/
 https://hi.scfilms.cn/tags/contact/
 https://hi.scfilms.cn/tags/logs/
 https://hi.scfilms.cn/tags/works/

@@ -137,20 +137,6 @@
 
   
   <url>
-    <loc>https://hi.scfilms.cn/tags/about/</loc>
-    <lastmod>2024-07-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hi.scfilms.cn/tags/poetry/</loc>
-    <lastmod>2024-07-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://hi.scfilms.cn/tags/story/</loc>
     <lastmod>2024-07-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -166,6 +152,20 @@
   
   <url>
     <loc>https://hi.scfilms.cn/tags/pictures/</loc>
+    <lastmod>2024-07-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hi.scfilms.cn/tags/about/</loc>
+    <lastmod>2024-07-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hi.scfilms.cn/tags/poetry/</loc>
     <lastmod>2024-07-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
