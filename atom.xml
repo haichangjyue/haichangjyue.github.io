@@ -6,7 +6,7 @@
   <link href="https://hi.scfilms.cn/atom.xml" rel="self"/>
   
   <link href="https://hi.scfilms.cn/"/>
-  <updated>2024-08-02T21:47:56.412Z</updated>
+  <updated>2024-08-02T19:53:13.525Z</updated>
   <id>https://hi.scfilms.cn/</id>
   
   <author>
@@ -15,34 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>敬请期待……</title>
-    <link href="https://hi.scfilms.cn/2025/05/20/new-film/"/>
-    <id>https://hi.scfilms.cn/2025/05/20/new-film/</id>
-    <published>2025-05-20T06:32:03.000Z</published>
-    <updated>2024-08-02T21:47:56.412Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://scfilms.cn/202408030534839.png&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="最新消息" scheme="https://hi.scfilms.cn/categories/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/"/>
-    
-    
-    <category term="films" scheme="https://hi.scfilms.cn/tags/films/"/>
-    
-    <category term="logs" scheme="https://hi.scfilms.cn/tags/logs/"/>
-    
-  </entry>
   
   <entry>
     <title>影响我至今的作品，电影《你的名字。》</title>
@@ -315,6 +287,34 @@
     <category term="films" scheme="https://hi.scfilms.cn/tags/films/"/>
     
     <category term="pictures" scheme="https://hi.scfilms.cn/tags/pictures/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>敬请期待……</title>
+    <link href="https://hi.scfilms.cn/2023/07/05/new-film/"/>
+    <id>https://hi.scfilms.cn/2023/07/05/new-film/</id>
+    <published>2023-07-05T06:32:03.077Z</published>
+    <updated>2024-08-02T21:49:15.181Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://scfilms.cn/202408030534839.png&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="最新消息" scheme="https://hi.scfilms.cn/categories/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/"/>
+    
+    
+    <category term="films" scheme="https://hi.scfilms.cn/tags/films/"/>
+    
+    <category term="logs" scheme="https://hi.scfilms.cn/tags/logs/"/>
     
   </entry>
   
