@@ -17,8 +17,8 @@ https://hi.scfilms.cn/tags/story/
 https://hi.scfilms.cn/tags/films/
 https://hi.scfilms.cn/tags/pictures/
 https://hi.scfilms.cn/tags/about/
-https://hi.scfilms.cn/tags/contact/
 https://hi.scfilms.cn/tags/poetry/
+https://hi.scfilms.cn/tags/contact/
 https://hi.scfilms.cn/tags/logs/
 https://hi.scfilms.cn/tags/works/
 https://hi.scfilms.cn/tags/news/
