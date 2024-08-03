@@ -11,15 +11,6 @@
   </url>
   
   <url>
-    <loc>https://hi.scfilms.cn/2025/05/20/new-film/</loc>
-    
-    <lastmod>2024-08-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://hi.scfilms.cn/2023/07/16/ZOM100/</loc>
     
     <lastmod>2024-08-02</lastmod>
@@ -158,6 +149,13 @@
   </url>
   
   <url>
+    <loc>https://hi.scfilms.cn/tags/poetry/</loc>
+    <lastmod>2024-08-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://hi.scfilms.cn/tags/about/</loc>
     <lastmod>2024-08-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -166,13 +164,6 @@
   
   <url>
     <loc>https://hi.scfilms.cn/tags/contact/</loc>
-    <lastmod>2024-08-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hi.scfilms.cn/tags/poetry/</loc>
     <lastmod>2024-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -216,14 +207,14 @@
   </url>
   
   <url>
-    <loc>https://hi.scfilms.cn/categories/%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F/</loc>
+    <loc>https://hi.scfilms.cn/categories/%E5%8E%9F%E5%88%9B%E8%AF%97%E8%AF%8D/</loc>
     <lastmod>2024-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://hi.scfilms.cn/categories/%E5%8E%9F%E5%88%9B%E8%AF%97%E8%AF%8D/</loc>
+    <loc>https://hi.scfilms.cn/categories/%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F/</loc>
     <lastmod>2024-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
