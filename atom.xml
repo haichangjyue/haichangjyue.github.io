@@ -6,7 +6,7 @@
   <link href="https://hi.scfilms.cn/atom.xml" rel="self"/>
   
   <link href="https://hi.scfilms.cn/"/>
-  <updated>2024-09-16T20:02:48.553Z</updated>
+  <updated>2024-09-18T14:37:24.707Z</updated>
   <id>https://hi.scfilms.cn/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://hi.scfilms.cn/2024/09/17/news240917/"/>
     <id>https://hi.scfilms.cn/2024/09/17/news240917/</id>
     <published>2024-09-16T19:52:37.000Z</published>
-    <updated>2024-09-16T20:02:48.553Z</updated>
+    <updated>2024-09-18T14:37:24.707Z</updated>
     
     
       
@@ -36,6 +36,8 @@
       
     
     
+    
+    <category term="最新消息" scheme="https://hi.scfilms.cn/categories/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/"/>
     
     
     <category term="films" scheme="https://hi.scfilms.cn/tags/films/"/>
